@@ -19,7 +19,7 @@ const Footer = () => {
                             <a href="https://twitter.com" target="_blank" rel="noreferrer" className="btn btn-ghost btn-circle btn-sm hover:text-primary transition-colors"><FaTwitter /></a>
                             <a href="https://facebook.com" target="_blank" rel="noreferrer" className="btn btn-ghost btn-circle btn-sm hover:text-primary transition-colors"><FaFacebook /></a>
                             <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="btn btn-ghost btn-circle btn-sm hover:text-primary transition-colors"><FaLinkedin /></a>
-                            <a href="https://github.com/reazul-islam" target="_blank" rel="noreferrer" className="btn btn-ghost btn-circle btn-sm hover:text-primary transition-colors"><FaGithub /></a>
+                            <a href="https://github.com/Reazul-Islam02" target="_blank" rel="noreferrer" className="btn btn-ghost btn-circle btn-sm hover:text-primary transition-colors"><FaGithub /></a>
                         </div>
                     </div>
 
